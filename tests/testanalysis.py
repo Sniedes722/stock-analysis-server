@@ -1,3 +1,3 @@
 import requests
 
-r = requests.get("https://stock-analysis-server-sneed722.c9users.io/price?stocks=TWLO,GOOG,NKE,UAA,FB,WMT,AAPL")
+r = requests.get("http://127.0.0.1/price?stocks=TWLO,GOOG,NKE,UAA,FB,WMT,AAPL")
