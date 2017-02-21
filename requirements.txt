@@ -1,0 +1,12 @@
+AoikLiveReload==0.1.0
+PyYAML==3.12
+aiofiles==0.3.0
+argh==0.26.2
+googlefinance==0.7
+httptools==0.0.9
+pathtools==0.1.2
+requests==2.13.0
+sanic==0.3.1
+ujson==1.35
+uvloop==0.8.0
+watchdog==0.8.3
